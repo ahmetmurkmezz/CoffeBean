@@ -1,2 +1,1 @@
-# CoffeBean
-Total Sales Prediction with Linear Regression
+In this project, the aim was to predict the profits of products in the dataset named CoffeBean. Since the data was scattered, efforts were made to bring the data together and derive meaning from it. As customer information was also scattered in the data, it was compiled, and details like email and phone numbers were gathered. In this dataset, an attempt was made to predict the profits brought to the company by orders and estimate the total sales using a Linear Regression model.
